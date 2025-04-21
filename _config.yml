@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "WONJE LEE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Running in debug mode, sometimes at a sprint."
+  location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
